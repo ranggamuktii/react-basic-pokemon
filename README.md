@@ -28,4 +28,4 @@ Kemudian, jalankan proyek menggunakan:
 npm run dev
 ```
 
-Aplikasi akan berjalan di [MIT](http://localhost:5173)
+Aplikasi akan berjalan di [link]http://localhost:5173
